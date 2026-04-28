@@ -1,4 +1,4 @@
-import { pathAliases } from './config.js'
+import { pathAliases } from '../config.js'
 
 function resolveAlias(pathWithAlias) {
     for (const [alias, realPath] of Object.entries(pathAliases)) {

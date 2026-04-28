@@ -33,8 +33,8 @@ export const pathAliases = {
 <h3> Main js script </h3>
 
 ```js
-//  ./.root/index.js
-import { pathAliases } from './config.js'
+//  ./index.js
+import { pathAliases } from '../config.js'
 
 function resolveAlias(pathWithAlias) {
     for (const [alias, realPath] of Object.entries(pathAliases)) {
