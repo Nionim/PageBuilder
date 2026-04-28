@@ -1,7 +1,5 @@
 <h1> Work in progress </h1>
 
-![example](docs/assets/example.png)
-
 <!-- Lol json again -->
 ```json
     For load ur page in the <script> block u need to 
@@ -13,6 +11,8 @@
 
     TODO #2: Maybe need to compare all styles into one <style> block on page top. idk
 ```
+
+![example](docs/assets/example.png)
 
 <h3> Python webserver starter </h3>
 
