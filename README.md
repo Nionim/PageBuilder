@@ -2,6 +2,18 @@
 
 ![example](docs/assets/example.png)
 
+<!-- Lol json again -->
+```json
+    For load ur page in the <script> block u need to 
+    loadHTML('$path/to_html.html', 'target_block_id');
+    :D
+
+    TODO: Auto reload all scripts after page load
+    U cant use scripts in the custom blocks on this time
+
+    TODO #2: Maybe need to compare all styles into one <style> block on page top. idk
+```
+
 <h3> Python webserver starter </h3>
 
 ```py
